@@ -1,6 +1,6 @@
 # qz_app
 
-A new Flutter project.
+配置第一个app（flutter框架编写）
 
 ## Getting Started
 
